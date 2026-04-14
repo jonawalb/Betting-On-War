@@ -1,0 +1,18 @@
+event_date,event_type,actor,severity,description
+2022-02-24,invasion,Russia,high,Russia launches full-scale invasion of Ukraine
+2022-09-21,mobilization,Russia,high,Putin announces partial mobilization
+2022-10-08,attack,Ukraine,medium,Kerch Bridge explosion
+2023-06-24,crisis,Russia,high,Wagner Group mutiny and march on Moscow
+2023-10-07,attack,Hamas,high,Hamas attacks Israel (October 7)
+2023-10-27,military_operation,Israel,high,Israel begins Gaza ground invasion
+2024-01-12,strike,US/UK,medium,US and UK strike Houthi targets in Yemen
+2024-04-01,strike,Israel,high,Israel strikes Iranian consulate in Damascus
+2024-04-13,retaliation,Iran,high,Iran launches 300+ drones and missiles at Israel (True Promise 1)
+2024-04-19,strike,Israel,medium,Israel retaliatory strike on Isfahan
+2024-10-01,retaliation,Iran,high,Iran launches 180+ ballistic missiles at Israel (True Promise 2)
+2024-10-26,strike,Israel,high,Israel strikes Iranian military targets
+2025-06-13,strike,US/Israel,high,Joint US-Israeli strikes on Iranian nuclear facilities
+2025-06-25,retaliation,Iran,high,Iranian missile barrage on Israel (True Promise 3)
+2026-02-28,strike,US/Israel,high,Surprise joint US-Israeli attack on Iran begins current war
+2026-03-15,escalation,US/Israel,high,"Strikes on Tehran, Isfahan, Shiraz, Mashhad"
+2026-04-04,retaliation,Iran,high,"Operation True Promise 4 -- cluster munitions on Haifa, Tel Aviv"
